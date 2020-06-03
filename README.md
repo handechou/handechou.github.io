@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Welcome to Hande's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/handechou/handechou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src='./img/xjpic.jpeg' />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介
 
-### Markdown
+姓名： 周嘉健
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+电话： 18944983596
 
-```markdown
-Syntax highlighted code block
+邮箱： hande.zhou@foxmail.com
 
-# Header 1
-## Header 2
-### Header 3
+### 学习经历
 
-- Bulleted
-- List
+2016 - 2020 湖南科技学院 软件工程
 
-1. Numbered
-2. List
+### 所学知识
 
-**Bold** and _Italic_ and `Code` text
+熟悉**Java**语言，具备良好的编程习惯；
 
-[Link](url) and ![Image](src)
-```
+熟悉**Python**、**Shell**脚本语言；
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+熟悉HTML、CSS、JavaScript、JQuery、BootStrap、Vue、Flutter、Ajax、axios；
 
-### Jekyll Themes
+熟悉**HTTP**协议、**TCP**、**UDP**；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/handechou/handechou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+熟悉**Nginx**、**Tomcat**服务器；
 
-### Support or Contact
+熟悉**SpringBoot**、**SpringCloud**等微服务框架、**LVS+KeepAlived**、**Docker**、**Spring**、**SpringMVC**、**MyBatis**框架；
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+熟悉**Linux**；
+
+熟悉**SQL Server**、**MySQL**、**Redis**；
+
+熟悉**Git**、**SVN**版本工作工具；
+
+熟悉进程/线程调度；
+
+### 自我评价
+
+- 喜欢探索新技术、具有不服输的精神;
+- 拥有良好的学习习惯、乐于思考，能够沉下心来去发现问题原因，探索问题的解决办法;
+- 心理素质良好，抗压能力强;
+- 交流能力良好、有良好的团队合作精神;
+- 具有很强的责任心.
+
+### Hande's Note
+
+Here are some of my understanding and experience during my studies.[click here](MyZoom.md)
+
+Welcome everyone dicuss with me. My Email: hande.zhou@foxmail.com
